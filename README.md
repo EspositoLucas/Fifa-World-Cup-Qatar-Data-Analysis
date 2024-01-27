@@ -1,4 +1,4 @@
-# Fifa World Cup Qatar Data Analytics
+# Fifa World Cup Qatar Data Analysis
 
 ## Overview
 This project focuses on conducting an Exploratory Data Analysis (EDA) of key metrics related to the FIFA World Cup Qatar 2022. The analysis covers various aspects such as the top scorer, teams with more possession, passing accuracy, goals, and goalkeepers with more unbeaten goals. The project utilizes Python for data analysis, Excel for data processing, and Power BI for creating an interactive dashboard.
