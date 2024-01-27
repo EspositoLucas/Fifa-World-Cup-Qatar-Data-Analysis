@@ -26,7 +26,7 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) of key met
     - Do not alter the folder structure to maintain data integrity.
 
 3. **Power BI Dashboard:**
-    - Open `FIFA_World_Cup_2022_Dashboard.pbix` using [Power BI Desktop](https://www.microsoft.com/es-es/download/details.aspx?id=58494).
+    - Open `fifa_world_cup_2022_report.pbix` using [Power BI Desktop](https://www.microsoft.com/es-es/download/details.aspx?id=58494).
     - The dashboard provides an interactive interface for exploring the insights derived from the data.
     - You can also see the dashboard [here](https://app.powerbi.com/reportEmbed?reportId=6f4f8755-ba59-4f54-85fb-ac3b9b453710&autoAuth=true&ctid=a6fe1b1e-97b7-422d-b1bc-e37254398663) where you need to log in with your Power BI account
 
