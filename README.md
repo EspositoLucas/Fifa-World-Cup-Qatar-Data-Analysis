@@ -31,7 +31,7 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) of key met
     - You can also see the dashboard [here](https://www.novypro.com/project/lucas-esposito)
 
 ## Acknowledgments
-- Dataset: Kaggle (Include a link to the Kaggle dataset used)
+- Dataset: Obtained from [Kaggle](https://www.kaggle.com/datasets/tittobobby/fifa-world-cup-2022-player-stats)
 - Libraries: Pandas, NumPy, Seaborn, Matplotlib for Python analysis
 - Tools: Power BI for creating interactive visualizations
 s.
