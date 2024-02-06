@@ -34,3 +34,8 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) of key met
 - Dataset: Obtained from [Kaggle](https://www.kaggle.com/datasets/tittobobby/fifa-world-cup-2022-player-stats)
 - Libraries: Pandas, NumPy, Seaborn, Matplotlib for Python analysis
 - Tools: Power BI for creating interactive visualizations
+
+## Preview
+https://github.com/EspositoLucas/Fifa-World-Cup-Qatar-Data-Analysis/assets/79590470/9c7451af-daa5-4ecb-8c42-79b8ad8fbf89
+
+
